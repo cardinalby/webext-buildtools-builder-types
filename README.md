@@ -1,5 +1,9 @@
-Package with interfaces definitions for all *webext-buildtools* builders. 
-
+[![Build Status](https://travis-ci.com/cardinalby/webext-buildtools-builder-types.svg?branch=master)](https://travis-ci.com/cardinalby/webext-buildtools-builder-types)
+### Introduction
+Package with interfaces definitions for all *webext-buildtools* builders.
+### Installation
+`npm install webext-buildtools-builder-types`
+### Details
 *webext-buildtools* is a toolkit for building and deploying Web Extensions (browser extensions standard introduced by Google and supported by Chrome, Firefox, Internet Explorer, Opera, etc.).
 
 Use this package to create own builder which implements `ISimpleBuilder` to make it compatible with other builders in *webext-buildtools* toolkit.
