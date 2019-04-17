@@ -1,0 +1,25 @@
+{
+  "name": "webext-buildtools-builder-types",
+  "version": "1.0.0",
+  "description": "Base webext-buildtools builders types definitions",
+  "keywords": [
+    "webext-buildtools",
+    "types",
+    "builder"
+  ],
+  "author": "cardinalby",
+  "license": "MIT",
+  "main": "index.d.ts",
+  "files": [
+    "*"
+  ],
+  "devDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  },
+  "scripts": {
+    "lint": "tsc && tslint index.d.ts",
+    "prepublishOnly": "npm run lint",
+    "preversion": "npm run lint"
+  }
+}
