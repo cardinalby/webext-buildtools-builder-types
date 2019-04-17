@@ -1,12 +1,17 @@
 {
   "name": "webext-buildtools-builder-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base webext-buildtools builders types definitions",
   "keywords": [
     "webext-buildtools",
     "types",
     "builder"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cardinalby/webext-buildtools-builder-types"
+  },
+  "homepage": "https://github.com/cardinalby/webext-buildtools-builder-types",
   "author": "cardinalby",
   "license": "MIT",
   "main": "index.d.ts",
