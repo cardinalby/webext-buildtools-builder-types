@@ -1,6 +1,6 @@
 {
   "name": "webext-buildtools-builder-types",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Base webext-buildtools builders types definitions",
   "keywords": [
     "webext-buildtools",
@@ -16,7 +16,8 @@
   "license": "MIT",
   "main": "index.d.ts",
   "files": [
-    "index.d.ts"
+    "index.d.ts",
+    "LICENSE"
   ],
   "devDependencies": {
     "tslint": "^5.12.1",
