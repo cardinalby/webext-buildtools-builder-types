@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.com/cardinalby/webext-buildtools-builder-types.svg?branch=master)](https://travis-ci.com/cardinalby/webext-buildtools-builder-types)
 ### Introduction
 Package with interfaces definitions for all *webext-buildtools* builders.
+
+If you need complete solution for Web Extension build/deploy, go to [webext-buildtools-integrated-builder](https://github.com/cardinalby/webext-buildtools-integrated-builder) repo.
 ### Installation
 `npm install webext-buildtools-builder-types`
 ### Details
