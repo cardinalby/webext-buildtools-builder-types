@@ -1,6 +1,6 @@
 {
   "name": "webext-buildtools-builder-types",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Base webext-buildtools builders types definitions",
   "keywords": [
     "webext-buildtools",
@@ -20,7 +20,7 @@
     "LICENSE"
   ],
   "devDependencies": {
-    "tslint": "^5.12.1",
+    "tslint": "^5.17.0",
     "typescript": "^3.3.3"
   },
   "scripts": {
